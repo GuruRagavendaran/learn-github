@@ -2,7 +2,7 @@ import Navbar from './Navbar';
 import Home from './Home';
 
 function App() {
-  const title = 'Welcome to my sample website';
+  const title = 'Welcome to sample website';
   const likes = 60;
   const link="htp://www.google.com";
   return (
