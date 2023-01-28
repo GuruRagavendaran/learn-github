@@ -10,9 +10,10 @@ function App() {
       <Navbar />
       <div className ="Content">
        <Home />
-        <p>Likes {likes} times</p>
+        <p>Likes {likes}  times</p>
         <p> { 56}</p>
         <p>{"Guru"}</p>
+        <p>vbjchdvlj</p>
         <p>{[1,2,3,4,5]}</p>
         <a href={link}> Google site</a>
       </div>
